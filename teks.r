@@ -1,0 +1,1 @@
+teks= "haloo selamat datang di R"
